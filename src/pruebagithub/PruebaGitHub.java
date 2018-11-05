@@ -1,10 +1,6 @@
 package pruebagithub;
 
-/**
- * @author DavidGR
- * @date 05-nov-2018
- * @time 21:02:28
- */
+
 public class PruebaGitHub {
 
     /**
